@@ -1,13 +1,56 @@
 # Ei_Phyu_Phyu_Phway
-Assignment Title: Java Object-Oriented Programming (OOP) Tutorials & Reflection
+2.1 Assignment Title: Java Object-Oriented Programming (OOP) Tutorials & Reflection
 
-Student Name: [EI PHYU PHYUU PHWAY]
+2.2 Student Name: [EI PHYU PHYUU PHWAY]
 
-Student ID: [202505010374]
+2.3 Student ID: [202505010374]
 
-Course Information: Object-Oriented Programming (Java)
+2.4 Course Information: Object-Oriented Programming (Java)
 
-Brief Course Description: This course covers the fundamental concepts of Object-Oriented Programming using Java, version control with Git/GitHub, and graphical user interface development.
+2.5 Brief Course Description: This course covers the fundamental concepts of Object-Oriented Programming using Java, version control with Git/GitHub, and graphical user interface development.
+
+## 2.6 Repository Structure
+
+object-oriented-programming-tutorials/
+│
+├── README.md
+├── myreport.pdf
+│
+├── week1/          (or tutorial1/)
+│   ├── HelloWorld.java
+│   └── StudentGrade.java
+│
+├── week2/          (or tutorial2/)
+│   ├── Main.java
+│   └── Student.java
+│
+├── week3-4/        (or tutorial_3-4/)
+│   ├── Main.java
+│   ├── Person.java
+│   ├── Student.java
+│   └── Lecturer.java
+│
+├── week5/          (or tutorial5/)
+│   ├── main.Java
+│   ├── sTudent.java
+│   └── documentation.txt
+│
+├── week6/          (or tutorial6/)
+│   ├── main.Java
+│   ├── employee.java
+│   └── lecturer.java
+│
+├── week7/          (or tutorial7/)
+│   ├── Appliances.java
+│   └── Main.java
+│
+├── week8-9/        (or tutorial_8-9/)
+│   ├── Main.java
+│   └── task.txt
+│
+└── week10/         (or tutorial10/)
+    ├── Questions.java
+    └── QuizBattleGUI.java
 
 2.7 Tutorial Summary (Week 1–10)
 
