@@ -15,32 +15,32 @@
 eiphyuphyuphway834-hue/
 ├── README.md
 ├── myreport.pdf
-├── week1/
+├── w_1/
 │   ├── HelloWorld.java
 │   └── StudentGrade.java
-├── week2/
+├── w_2/
 │   ├── Main.java
 │   └── Student.java
-├── week3-4/
+├── w_3-4/
 │   ├── Main.java
 │   ├── Person.java
 │   ├── Student.java
 │   └── Lecturer.java
-├── week5/
+├── w_5/
 │   ├── main.Java
 │   ├── sTudent.java
 │   └── documentation.txt
-├── week6/
+├── w_6/
 │   ├── main.Java
 │   ├── employee.java
 │   └── lecturer.java
-├── week7/
+├── w_k7/
 │   ├── Appliances.java
 │   └── Main.java
-├── week8-9/
+├── w_k8-9/
 │   ├── Main.java
 │   └── task.txt
-└── week10/
+└── w_k10/
     ├── Questions.java
     └── QuizBattleGUI.java
 ```
